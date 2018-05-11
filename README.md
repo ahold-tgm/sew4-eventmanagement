@@ -45,3 +45,6 @@ Beachten Sie bei der Implementierung, dass die Kommentare in derselben Reihenfol
 Sie müssen sich auch Gedanken über die Persistenz der Informationen machen. Wenn die Serverinstanz herunterfährt, muss der gesamte Inhalt dauerhaft abgelegt worden sein.
 
 Es reicht ein einfaches, aber funktionales GUI. Sie müssen dafür ein entsprechendes Framework einsetzen.
+
+##Zeitaufzeichnung
+https://docs.google.com/spreadsheets/d/1VuHBhLw7mpj48xmvvhskgoZgbZvOAz7b3KvANuBB0MI/edit?usp=sharing
